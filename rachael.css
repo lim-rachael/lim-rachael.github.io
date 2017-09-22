@@ -1,0 +1,80 @@
+.align {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.font {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 36px;
+}
+
+.form-font-1 {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 400px;
+    padding: 10px;
+    margin: auto;
+    background-color: lightgrey;
+    border: 1px lightgrey;
+}
+
+.form-font-2 {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 400px;
+    padding: 10px;
+    margin: auto;
+    background-color: lightpink;
+    border: 1px lightpink;
+}
+
+.connected {
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightsalmon;
+    font-size: 150%;
+    text-align: center;
+}
+
+.centre {
+    margin: auto
+}
+
+.image {
+    position: relative;
+    width;
+    100%;
+}
+
+h2 {
+    position: absolute;
+    top: 0;
+    left: 700px;
+    right: 0;
+    width: 100%:
+}
+
+.float-left {
+    float: left;
+    width: 33%;
+}
+
+.image1 {
+    height: 240px;
+}
+
+.hr {
+    width: 100%;
+    border: 10px solid lightgoldenrodyellow;
+    margin: auto;
+}
+
+.header {
+    position: relative;
+}
+
+.headerBg {
+    position: relative;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    max-height: 30%;
+}
